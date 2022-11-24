@@ -1,0 +1,149 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin-top: 10px;
+    font-size: 90px;
+    margin-bottom: 0;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+.top_container {
+    text-align: center;
+    padding-top: 80px;
+    position: relative;
+    /* font-size: 30px; */
+    background-color: #E4F9F5;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 25px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+}
+
+.mountain {
+    margin-top: 20px;
+}
+
+.profile {
+    text-align: center;
+    margin: 15px auto 0px auto;
+    width: 35%;
+    line-height: 2;
+    font-weight: bold;
+}
+
+.man {
+    width: 200px;
+    height: 190px;
+}
+
+.html {
+    width: 200px;
+    height: 190px;
+    float: left;
+    margin-right: 30px;
+}
+
+.css {
+    width: 200px;
+    height: 190px;
+    float: right;
+    margin-left: 30px;
+}
+
+.skills {
+    text-align: center;
+}
+
+.middle-container {
+    padding-top: 30px;
+    /* background-color: #B9E0FF; */
+}
+
+.contact-me {
+    text-align: center;
+    line-height: 2;
+}
+
+.bottom-container {
+    text-align: center;
+    background-color: #66BFBF;
+    margin-top: 50px;
+    padding: 50px;
+}
+
+h3,
+a {
+    color: #11999E;
+}
+
+.first-h2 {
+    font-weight: normal;
+}
+
+.footer-link {
+    padding: 30px;
+    color: #11999E;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.btn {
+    line-height: 3;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #1AA5AA;
+    /* -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    /* box-shadow: 1px 1px 20px 0 #000000; */
+    /* text-shadow: 1px 1px 20px #000000; */
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr {
+    border-width: 8px;
+    width: 5%;
+    border-style: dotted;
+    border-top: 2px;
+    border-color: #80808070;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.bottom-para{
+    color: #eaf6f6;
+    font-size: smaller;
+}
